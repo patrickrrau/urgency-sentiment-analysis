@@ -31,10 +31,10 @@ Pandas, NumPy
 
 ## Running the Project
 ### Install dependencies
-pip install tensorflow transformers pandas scikit-learn
+`pip install tensorflow transformers pandas scikit-learn`
 
 ### Run analysis
-python urgency_sentiment_v1.py
+`python urgency_sentiment_v1.py`
 
 ## Files
 urgency_sentiment_v1.py — Main model code
